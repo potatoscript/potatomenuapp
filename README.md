@@ -84,7 +84,7 @@ Add some images here to showcase the app in action!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/PotatoMenuApp.git
+   git clone https://github.com/potatoscript/PotatoMenuApp.git
    ```
 
 2. Open the project in **Visual Studio**.
