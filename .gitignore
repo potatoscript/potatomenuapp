@@ -1,0 +1,60 @@
+# User-specific files
+.idea/
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]ebugFinal/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]ebug-arm/
+[Dd]ebug-arm64/
+[Dd]ebug-linux/
+[Dd]ebug-osx/
+[Dd]ebug-windows/
+[Dd]ebug-windows-x64/
+[Dd]ebug-windows-x86/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.exe
+*.dll
+*.pdb
+*.app
+*.dmg
+*.pkg
+
+# VS Code directories
+.vscode/
+
+# Build directories
+bin/
+obj/
+
+# Windows Installer files
+*.appx
+*.appxbundle
+*.appxupload
+*.cer
+*.crl
+*.pfx
+*.p12
+
+# User-specific configuration files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
